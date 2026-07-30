@@ -1,41 +1,41 @@
 {
-  "artifact_set_sha256": "9a8dad3d9d4a91bb7a0dc3642af197d467c29dc6584df1ee7f0b223044b8decc",
+  "artifact_set_sha256": "de084de68f416850f06623c9339e07921335996264604eb64185fa535ba33c71",
   "base_url": "https://yeonoo8177.github.io/dido-legal/",
   "files": [
     {
-      "bytes": 24096,
+      "bytes": 28303,
       "path": "privacy-policy.html",
-      "sha256": "2cc17d78dc5c4a4b8254e5f719686c31bbd82c6da923eb7b1868c89fdd4176c6"
+      "sha256": "20f8feb0e8d0613eb25c56eda120a67e4769cfc1ca5d0dd4bfa8ccd6dd76cecc"
     },
     {
-      "bytes": 26606,
+      "bytes": 31229,
       "path": "privacy-policy.ja.html",
-      "sha256": "e4de5789ba7d7a7960dd9d299058203d35b0899933b650f0ee9729be7032fa68"
+      "sha256": "152d02d239f2eabca55e61fca27a456a110372a669e162bd6ce8d21cbfdd0f5d"
     },
     {
-      "bytes": 20349,
+      "bytes": 24070,
       "path": "privacy-policy.zh-Hant.html",
-      "sha256": "8ff166fc7c8880667b98401f190c1eef7df19408dd1a8ace27919e123fcc734f"
+      "sha256": "d4dd10fd5c8fbb89a3604b14d94f484ae73e90ecd7e60b84ab980e6f6dbcfbc7"
     },
     {
-      "bytes": 7029,
+      "bytes": 7574,
       "path": "terms.html",
-      "sha256": "597e60c20f17194ce99ad46455a34ef171591fb8e931a8bcb95fa799061120cd"
+      "sha256": "96e7675791c2ff349aa7ea8d022f3e955f74245ffaf3fe43ddef3dce3a611986"
     },
     {
-      "bytes": 7865,
+      "bytes": 8503,
       "path": "terms.ja.html",
-      "sha256": "f1647deb5bb3746ffab166d849a0b016f3a561d194631b6c97dfda7beeb825c4"
+      "sha256": "0b1b7f4c49c4c5bd95f546ec8d74b81df8684fff6700a20e285373a986cbfe5d"
     },
     {
-      "bytes": 5958,
+      "bytes": 6432,
       "path": "terms.zh-Hant.html",
-      "sha256": "9e99b53a0fcfa7145364602024fb20d23c02caa3e729253cd056293af246313b"
+      "sha256": "83b62c05bac6dcfa189fe0e21306972705f0ce1f7a9b374be4c8321b274e1073"
     },
     {
-      "bytes": 10436,
+      "bytes": 10460,
       "path": "account-deletion.html",
-      "sha256": "01069493ea652acd3dbdcbe7fb4eb347be1f0f151fcc5cf0cc79a03cc9806f19"
+      "sha256": "687a830d44f9320f07526efa6db1c23fff0d6291c6dbd0f0fe47a8e1ff8f7a5f"
     }
   ],
   "repository": "yeonoo8177/dido-legal",
